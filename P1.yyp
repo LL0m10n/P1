@@ -39,6 +39,8 @@
   },
   "name":"P1",
   "resources":[
+    {"id":{"name":"Devlog","path":"notes/Devlog/Devlog.yy",},},
+    {"id":{"name":"game_room_fonction","path":"objects/game_room_fonction/game_room_fonction.yy",},},
     {"id":{"name":"obj_anim","path":"objects/obj_anim/obj_anim.yy",},},
     {"id":{"name":"obj_animbut","path":"objects/obj_animbut/obj_animbut.yy",},},
     {"id":{"name":"obj_arwLFT","path":"objects/obj_arwLFT/obj_arwLFT.yy",},},
@@ -54,7 +56,6 @@
     {"id":{"name":"obj_reset","path":"objects/obj_reset/obj_reset.yy",},},
     {"id":{"name":"obj_rm_mainm","path":"objects/obj_rm_mainm/obj_rm_mainm.yy",},},
     {"id":{"name":"obj_statics","path":"objects/obj_statics/obj_statics.yy",},},
-    {"id":{"name":"game_room_fonction","path":"objects/game_room_fonction/game_room_fonction.yy",},},
     {"id":{"name":"game_room","path":"rooms/game_room/game_room.yy",},},
     {"id":{"name":"rm_extras","path":"rooms/rm_extras/rm_extras.yy",},},
     {"id":{"name":"rm_mainmenu","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},},
