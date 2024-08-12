@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_newgame",
+  "%Name":"obj_options",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_newgame",
+  "name":"obj_options",
   "overriddenProperties":[],
   "parent":{
     "name":"MainMenu",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"ngame_sprite",
-    "path":"sprites/ngame_sprite/ngame_sprite.yy",
+    "name":"options_sprite",
+    "path":"sprites/options_sprite/options_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,

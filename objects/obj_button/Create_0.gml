@@ -1,0 +1,3 @@
+
+
+gotoroom = noone;

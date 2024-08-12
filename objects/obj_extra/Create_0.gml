@@ -1,0 +1,2 @@
+
+gotoroom = rm_extras;
