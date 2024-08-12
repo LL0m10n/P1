@@ -1,1 +1,10 @@
 Smiley was here
+
+LL:	-fonct_menu rassemblées
+	-Remise en marche >new_game<
+	-remis sortie échap
+	-changé événements >obj_buton_menu<
+		-n'a plus que 2 évenements
+		-modifié évenement >mouse enter< |fonct° comme enters/leave
+			-bouton ne redevient pas blanc
+	fin
