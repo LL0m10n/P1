@@ -6,8 +6,8 @@
   "name":"obj_mainm_anim",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"MainMenu",
+    "path":"folders/Objects/MainMenu.yy",
   },
   "parentObjectId":null,
   "persistent":false,

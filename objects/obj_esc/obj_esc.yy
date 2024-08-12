@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_anim",
+  "%Name":"obj_esc",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":27,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_anim",
+  "name":"obj_esc",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"MainMenu",
+    "path":"folders/Objects/MainMenu.yy",
   },
   "parentObjectId":null,
   "persistent":false,

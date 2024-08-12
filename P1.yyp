@@ -35,13 +35,12 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"P1",
   "resources":[
     {"id":{"name":"Devlog","path":"notes/Devlog/Devlog.yy",},},
     {"id":{"name":"game_room_fonction","path":"objects/game_room_fonction/game_room_fonction.yy",},},
-    {"id":{"name":"obj_anim","path":"objects/obj_anim/obj_anim.yy",},},
     {"id":{"name":"obj_animbut","path":"objects/obj_animbut/obj_animbut.yy",},},
     {"id":{"name":"obj_arwLFT","path":"objects/obj_arwLFT/obj_arwLFT.yy",},},
     {"id":{"name":"obj_arwRGT","path":"objects/obj_arwRGT/obj_arwRGT.yy",},},
@@ -49,6 +48,7 @@
     {"id":{"name":"obj_buton_menu","path":"objects/obj_buton_menu/obj_buton_menu.yy",},},
     {"id":{"name":"obj_camtrigger","path":"objects/obj_camtrigger/obj_camtrigger.yy",},},
     {"id":{"name":"obj_con","path":"objects/obj_con/obj_con.yy",},},
+    {"id":{"name":"obj_esc","path":"objects/obj_esc/obj_esc.yy",},},
     {"id":{"name":"obj_ext","path":"objects/obj_ext/obj_ext.yy",},},
     {"id":{"name":"obj_mainm_anim","path":"objects/obj_mainm_anim/obj_mainm_anim.yy",},},
     {"id":{"name":"obj_newgame","path":"objects/obj_newgame/obj_newgame.yy",},},

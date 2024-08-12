@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"game_room_fonction",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"game_room_fonction",
   "overriddenProperties":[],
