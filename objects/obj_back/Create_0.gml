@@ -1,0 +1,1 @@
+gotoroom = rm_mainmenu

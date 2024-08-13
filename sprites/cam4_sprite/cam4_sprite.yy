@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"cam4_sprite",
   "bboxMode":0,
-  "bbox_bottom":836,
+  "bbox_bottom":1079,
   "bbox_left":0,
-  "bbox_right":1599,
+  "bbox_right":1919,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,21 +12,21 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"79149acc-98d9-4e86-8298-a5779fea99e7","name":"79149acc-98d9-4e86-8298-a5779fea99e7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"d77941a2-633e-4f0c-9578-f68be6f1cf22","name":"d77941a2-633e-4f0c-9578-f68be6f1cf22","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":837,
+  "height":1080,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"d1c126dd-230f-4b37-822e-437b05ae3bec","blendMode":0,"displayName":"default","isLocked":false,"name":"d1c126dd-230f-4b37-822e-437b05ae3bec","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"bf4982fc-f7dd-4610-82ad-333cc3cbbf7f","blendMode":0,"displayName":"default","isLocked":false,"name":"bf4982fc-f7dd-4610-82ad-333cc3cbbf7f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"cam4_sprite",
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"caméras",
+    "path":"folders/Sprites/caméras.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"79149acc-98d9-4e86-8298-a5779fea99e7","path":"sprites/cam4_sprite/cam4_sprite.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9a019f03-2199-48bd-b366-e7c7af014b6a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d77941a2-633e-4f0c-9578-f68be6f1cf22","path":"sprites/cam4_sprite/cam4_sprite.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"3ee6c6f0-2c9d-493c-8d2b-7c54d1007990","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1600,
+  "width":1920,
 }
