@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"camflip_sprite",
-    "path":"sprites/camflip_sprite/camflip_sprite.yy",
+    "name":"camflipUP_sprite",
+    "path":"sprites/camflipUP_sprite/camflipUP_sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,

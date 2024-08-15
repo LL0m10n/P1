@@ -8,3 +8,17 @@ LL:	-fonct_menu rassemblées
 		-modifié évenement >mouse enter< |fonct° comme enters/leave
 			-bouton ne redevient pas blanc
 	fin
+
+#LL:	-caméra désactivable
+		-cam couleur survole réactivé
+		-ajout son camflip
+		-image cam sauv après fermeture caméra système (est le cas depuis ajout originel cam)
+		-changé temps (dés)avctivation caméra
+		-hud (map + boutons) disparaît
+			-réaparaît pendant qlq secondes après fermeture
+		-(dés)activation correcte >snd_fan<
+			-besoin hitbox pour réactiver camtrigger après utilisation
+			-prob son changement cam (fait avec n'importe quel son)
+	fin
+
+#
