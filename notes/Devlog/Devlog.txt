@@ -21,4 +21,12 @@ LL:	-fonct_menu rassemblées
 			-prob son changement cam (fait avec n'importe quel son)
 	fin
 
-#
+#LL:	-crée obj nuitfonc/heure/heuretype/nuitcompt
+		-ajout compteur heures/type heure/ nuit
+		-modifié cam trigger en instance destructible 
+			-réssemblé avec compteurs dans globalparam
+		-ajout temps nuit, limité à 30s, renvoi vers rm_extras
+			-(duré v finale = 6min(21600f)/nuits)
+			
+		-Demande à faire à 2 prochaine fois que tu veux y bosser dessus
+	fin

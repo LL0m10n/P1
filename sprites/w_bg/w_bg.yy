@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"w_bg",
   "bboxMode":0,
-  "bbox_bottom":725,
+  "bbox_bottom":1013,
   "bbox_left":60,
   "bbox_right":1799,
   "bbox_top":118,

@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_",
-  "eventList":[],
+  "%Name":"obj_nuitcompt",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_",
+  "name":"obj_nuitcompt",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"OutilsNuit",
+    "path":"folders/Objects/OutilsNuit.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"nuit_sprite",
+    "path":"sprites/nuit_sprite/nuit_sprite.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.906939,
+  "duration":187.97188,
   "name":"snd_phonecall",
   "parent":{
     "name":"Sounds",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_phonecall.ogg",
+  "soundFile":"snd_phonecall.wav",
   "type":1,
   "volume":1.0,
 }

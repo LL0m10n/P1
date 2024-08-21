@@ -8,5 +8,5 @@ global.on_cam = false;
 
 //aller au menu
 if room == rm_init {
-	room_goto(game_room)
+	room_goto(rm_mainmenu)
 }

@@ -13,8 +13,8 @@
     "path":"folders/Objects/Caméras.yy",
   },
   "parentObjectId":{
-    "name":"obj_camfunc",
-    "path":"objects/obj_camfunc/obj_camfunc.yy",
+    "name":"obj_camfonc",
+    "path":"objects/obj_camfonc/obj_camfonc.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
