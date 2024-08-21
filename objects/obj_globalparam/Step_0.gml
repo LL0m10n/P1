@@ -12,6 +12,9 @@
 		audio_stop_sound(snd_night);
 		audio_stop_sound(snd_fan);
 	}
+	if instance_exists(obj_transition){
+		audio_stop_all();
+	}
 		//appels
 		
 

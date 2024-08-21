@@ -68,7 +68,10 @@
     {"id":{"name":"obj_options","path":"objects/obj_options/obj_options.yy",},},
     {"id":{"name":"obj_screen","path":"objects/obj_screen/obj_screen.yy",},},
     {"id":{"name":"obj_statics","path":"objects/obj_statics/obj_statics.yy",},},
+    {"id":{"name":"obj_transition","path":"objects/obj_transition/obj_transition.yy",},},
+    {"id":{"name":"ParticleSystem1","path":"particles/ParticleSystem1/ParticleSystem1.yy",},},
     {"id":{"name":"game_room","path":"rooms/game_room/game_room.yy",},},
+    {"id":{"name":"rm_endnight","path":"rooms/rm_endnight/rm_endnight.yy",},},
     {"id":{"name":"rm_extras","path":"rooms/rm_extras/rm_extras.yy",},},
     {"id":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
     {"id":{"name":"rm_mainmenu","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},},
@@ -127,6 +130,7 @@
     {"roomId":{"name":"rm_options","path":"rooms/rm_options/rm_options.yy",},},
     {"roomId":{"name":"rm_extras","path":"rooms/rm_extras/rm_extras.yy",},},
     {"roomId":{"name":"game_room","path":"rooms/game_room/game_room.yy",},},
+    {"roomId":{"name":"rm_endnight","path":"rooms/rm_endnight/rm_endnight.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
